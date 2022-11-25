@@ -23,4 +23,6 @@ Loveseat          $45                           $30                           $2
 4 Post Bed        $55                           $38                           $350 
 Dresser           $28                           $25                           $200 
 Kitchen Table     $35                           $20                           $220 
- 
+
+
+# Remaining files all correspond to other assignments from USF's COP 3514 class, put together by Ismarie Birriel © 2022.
